@@ -1,1 +1,4 @@
-
+git clone https://github.com/AryTech86/oimundo.git
+git add hello.py
+git commit -m "Adicionando programa Hello World"
+git push origin main
